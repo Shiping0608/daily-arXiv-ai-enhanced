@@ -24,8 +24,7 @@ By default, this action will automatically run every day
 You can modify it in `.github/workflows/run.yml`
 9. If you wish to modify the content in `README.md`, do not directly edit README.md. You should edit `template.md`.
 
-# To-do list
-- [ ]  Replace markdown with GitHub pages front-end.
+
 
 # Content
 {readme_content}
